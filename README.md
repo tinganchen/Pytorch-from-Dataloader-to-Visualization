@@ -33,4 +33,5 @@ Trained in 3 epochs with 128 batch size and the training accuracy is 0.9827.
 ## Testing
 The testing accuracy is 0.9854.
 
-
+## Visualization
+Trained filters and the output feature maps each layer are plotted to see in the black box.
