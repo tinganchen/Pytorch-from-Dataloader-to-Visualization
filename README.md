@@ -12,8 +12,13 @@ Complete workflow for image classification in Pytorch.
 
 ## Requirements
 torch
+
 torchvision
+
 json
+
 matplotlib
+
 time
+
 numpy
