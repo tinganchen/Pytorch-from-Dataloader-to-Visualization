@@ -11,9 +11,8 @@ Complete workflow for image classification in Pytorch.
 6. Save feature maps and input image
 
 ## Requirements
-torch\
-torchvision\
-json\
-matplotlib\
-time\
-numpy\
+torch 1.2.0\
+torchvision 0.2.1\
+json 0.8.4\
+matplotlib 3.1.0\
+numpy 1.16.4
