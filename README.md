@@ -1,7 +1,7 @@
 # Pytorch-from-Dataloader-to-Visualization
 Complete workflow for image classification in Pytorch.
 
-What to learn in this notebook?
+What to learn in this repository?
 
 1. Import dataset and load it as batches
 2. CNN model
