@@ -37,4 +37,4 @@ The testing accuracy is 0.9854.
 Trained filters and the output feature maps each layer are plotted to see in the black box.
 
 ## Reference
-The model is references to >> https://xmfbit.github.io/2017/03/04/pytorch-mnist-example/. 
+The model is referenced to >> https://xmfbit.github.io/2017/03/04/pytorch-mnist-example/. 
