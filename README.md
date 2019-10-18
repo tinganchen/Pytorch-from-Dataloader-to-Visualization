@@ -11,8 +11,26 @@ Complete workflow for image classification in Pytorch.
 6. Save feature maps and input image
 
 ## Requirements
-- torch 1.2.0\
-- torchvision 0.2.1\
-- json 0.8.4\
-- matplotlib 3.1.0\
+- 32 GB RAM
+- RTX 2080 GPU
+- torch 1.2.0
+- torchvision 0.2.1
+- json 0.8.4
+- matplotlib 3.1.0
 - numpy 1.16.4
+
+## Dataset
+MNIST - Image classification, 1x28x28 px.
+
+## Model
+- Conv2d * 2 + RELU
+- Maxpool2d * 2
+- Fully connected layer * 2
+
+## Training
+Trained in 3 epochs with 128 batch size and the training accuracy is 0.9827. 
+
+## Testing
+The testing accuracy is 0.9854.
+
+
